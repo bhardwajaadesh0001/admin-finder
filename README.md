@@ -1,3 +1,5 @@
-- Date: 10/05/2015
+- Date: 23/10/2020
 
-Python Script to find Web Site Admin Login Page.
+Python script to find the "Admin Login Page" of a website.
+
+Credits to https://github.com/the-robot
